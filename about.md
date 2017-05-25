@@ -4,13 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Student at Hunter college!
 
 ### More Information
 
-I am a professional iOS Developer from Peshawar. Who like to develop iOS apps and work on cool
-projects, I love hackathons and pizzas. I love to travel and eat.
+Hi my name is Shawmique Rahman! Welcome to my page. I'm a student at Hunter college working on my degrees and waiting to get into the wonderful field of advertising. Please enjoy and get in touch... 
 
 ### Contact me
 
-[email me](mailto:farrukh.askari01@gmail.com)
+[My email...](mailto:farrukh.askari01@gmail.com)
