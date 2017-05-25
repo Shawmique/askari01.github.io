@@ -1,9 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: About Me!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I am a professional iOS Developer from Peshawar. Who like to develop iOS apps and work on cool
+projects, I love hackathons and pizzas. I love to travel and eat.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 

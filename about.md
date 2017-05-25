@@ -8,8 +8,9 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a professional iOS Developer from Peshawar. Who like to develop iOS apps and work on cool
+projects, I love hackathons and pizzas. I love to travel and eat.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email me](mailto:farrukh.askari01@gmail.com)
